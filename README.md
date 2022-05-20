@@ -7,4 +7,4 @@
 # Screen shot of Demo
 
 <h2> Mockup expectation </h2>
-![Alt text]("C:\Users\cbear\Dropbox\Bootcamp_Files\homework\week-one\assets\images\01-html-css-git-homework-demo.png"?raw=true "Mockup")
+![Alt text]("/assets/images/01-html-css-git-homework-demo.png"?raw=true "Mockup")
