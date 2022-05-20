@@ -7,6 +7,6 @@
 # Screen shot of Demo
 
 <h2> Mockup expectation </h2>
-![MockupScreenshot](./assets/images/01-html-css-git-homework-demo.png)
-<p>What Mine Looks Like</p>
-[Deployment](https://clairecashmore17.github.io/week-one-challenge/)
+![mockupscreenshot](./assets/images/01-html-css-git-homework-demo.png)
+<h2>What Mine Looks Like</h2>
+![Deployment](https://clairecashmore17.github.io/week-one-challenge/)
