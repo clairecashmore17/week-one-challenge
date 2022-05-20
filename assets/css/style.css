@@ -32,13 +32,16 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+/*Floated content to the right and margined it to be in line with Horiseon*/
+.header nav ul {
+    float: right;
     list-style-type: none;
+    margin-top:-40px;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-right: 25px;
 }
 
 a {
